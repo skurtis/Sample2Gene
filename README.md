@@ -1,7 +1,5 @@
 Sample2Gene
 ===========
-__This script converts the output haplotype or genotype per-sample FASTA files of all loci into per-gene FASTA files of all samples.__
-
 _Sarah Kurtis_
 
 _Kimball/Braun Lab | Department of Biology | University of Florida_
@@ -12,6 +10,7 @@ _[sarahkurtis@ufl.edu](mailto:sarahkurtis@ufl.edu)_
 
 _September 19, 2019_
 ## Description
+This script converts the output haplotype or genotype per-sample FASTA files of all loci into per-gene FASTA files of all samples. This script runs best on files constructed from __[Read2Fast](https://github.com/skurtis/Read2Fast)__.
 ```
 ./sample2gene.sh List Input Output
 ```
